@@ -1,0 +1,4 @@
+vendor/
+*.log
+.smoke*/
+__pycache__/
